@@ -1,0 +1,11 @@
+Guid,ParentId,IsPublished,CommentBody
+2e170bd4-7bdb-4f24-b3f3-8250780dfd57,cfc86ec1-ce53-431a-9da8-7a18331246e1,false,This is a case comment that is directly related to 00002581 and is private to the SF Org only.
+ec012281-03c6-4113-94f8-8e072a2c85c8,2c910ab1-9299-4728-98c5-817c6453d0b9,false,This is a comment for 00001299.
+a440d2d8-94bc-42c0-a47e-bf25b0d09832,2ffed002-b726-43a3-a90d-3b451ddc227c,true,00002072 Case Comment numero uno.
+fbf0e857-4ce4-4e64-9f3b-7d1cfdce9e42,afd302a5-3b3c-4e9c-be86-1e66f8a0a6c7,false,Private comment related to Case 00001632.
+cf8a94f3-34c8-40fd-bc2e-b2fb79f879fd,8f1e04a4-3c44-49d6-ae46-8173b7dab3b6,true,Case Comment #1 for 00001732!
+ce642e3c-0409-4997-8520-16a5c0334f9e,b9bcd600-7e9d-4e0d-a55b-cf564afd1ba3,true,0000 Fourteen Eighty-two case comment # dos.
+0e9d08bd-2783-4541-84b8-fd53f07015ac,b9bcd600-7e9d-4e0d-a55b-cf564afd1ba3,true,0000 Fourteen Eighty-two case comment #1.
+21e99d97-521d-4659-aaf2-f0a9ec80095f,634c26d4-7abe-42d4-a7dd-f5f6145ac7d6,false,This is also a critical comments related to Case 00001069.
+f6b31a26-2766-442d-af32-a541e9fab80f,3ef0ee45-4896-4801-817d-afa189d1ff7a,true,I could really use some help here. Hello?!?!!?
+92544603-a747-4a3f-bb77-3fa94e8c1b4e,634c26d4-7abe-42d4-a7dd-f5f6145ac7d6,false,Case Comments are critical to the process.
